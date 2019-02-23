@@ -1,0 +1,7 @@
+[package]
+name = "strings_lists"
+version = "0.1.0"
+authors = ["jeffreys"]
+edition = "2018"
+
+[dependencies]
